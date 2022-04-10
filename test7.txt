@@ -1,0 +1,3 @@
+*First row gives us all the nodes, all other nodes gives us edges
+a,b
+a,b
