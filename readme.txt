@@ -1,4 +1,4 @@
-Ayman Rahadian, Sean Lee, Kyosuke Imai
+Ayman Rahadian, Kyosuke Imai
 
 page_rank.py is a python file that implements the page_rank algorithm.
 
